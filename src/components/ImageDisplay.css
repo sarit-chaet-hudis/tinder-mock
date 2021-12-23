@@ -1,0 +1,9 @@
+.bigImage {
+  height: 70vmin;
+  width: 70vmin;
+  max-height: 800px;
+  background-color: lightcoral;
+  margin: auto;
+  text-align: center;
+  padding-top: 25%;
+}
